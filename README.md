@@ -3,11 +3,10 @@ Kanboard's Documentation
 
 [![Documentation Status](https://readthedocs.org/projects/kanboard-pt/badge/?version=latest)](http://docs.kanboard.org/pt/latest/?badge=latest)
 
-This documentation is generated with Sphinx and pushed automatically on [Read the Docs](https://readthedocs.org/).
+Este documento é gerado com Sphinx e enviado automaticamente para o [Read the Docs](https://readthedocs.org/).
 
-How to generate the documentation locally?
-------------------------------------------
+Como gerar a documentação localmente?
+-------------------------------------
 
-1. Install [Sphinx](http://www.sphinx-doc.org/) on your machine.
-2. Run `make clean html` and open the file `_build/html/index.html` in your browser.
-
+1. Instale o [Sphinx](http://www.sphinx-doc.org/) na sua máquina.
+2. Execute `make clean html` e abra o arquivo `_build/html/index.html` no seu navegador.
