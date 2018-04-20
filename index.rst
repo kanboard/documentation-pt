@@ -8,10 +8,10 @@ Kanboard é um software de gerenciamento de projetos Kanban gratuito e de códig
 - Fórum: https://github.com/kanboard/forum/issues
 - RSS: https://github.com/kanboard/kanboard/releases.atom
 - Mastodon: https://mastodon.social/@kanboard
-- IRC: #kanboard sur Freenode
+- IRC: #kanboard no Freenode
 
 .. toctree::
-   :maxdepth: 2
-   :caption: índice analítico
+    :maxdepth: 1
+    :caption: Índice
 
-   user_guide/index
+    user_guide/index
