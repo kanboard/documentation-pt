@@ -34,3 +34,9 @@ também pode desativar e alterar a posição das diferentes raias.
 - As raias inativas não são mostradas no quadro.
 - **Remover uma raia não remove tarefas atribuídas a ela**, essas tarefas serão
   movidas para a raia padrão.
+
+Dicas
+-----------------
+Ao utilizar Raias, pode-se usar do recurso ( atalho expandir tarefas), simplesmente pressionando a tecla **S**, na visualização do quadro de tarefas e raias.
+Desta forma poderá ter melhor visualização da distribuição de todas as tarefas e raias em seu quadro.
+**Nota:** Lembrando que esse recurso, é uma melhoria do kanboard e pode ser utilizado, independente de utilizar Raias ou não.
